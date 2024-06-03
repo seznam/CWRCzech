@@ -1,0 +1,14 @@
+# Disclaimer
+
+## CZ verze
+  
+Tato přiložená datová sada, jež slouží primárně k ověření pravdivosti vědeckých výstupů uvedených ve vědeckém článku autora, je akademické veřejnosti, konkrétně adresátovi této e-mailové zprávy, zpřístupňována pro čistě výzkumné, vědecké a nekomerční účely s cílem dalšího rozvoje v oblasti umělé inteligence a přidružených oblastech. Datová sada je poskytována bez jakýchkoliv záruk či garancí, přičemž jejím užitím na sebe disponent přebírá případná rizika s datovou sadou spojená, jako jsou např. obsahová či technická neúplnost dat, existence práv třetích osob k datům apod. Užitím datové sady na sebe disponent přebírá veškerou odpovědnost za případnou škodu či újmu vyplývající z užití datové sady. Autor článku ani společnost Seznam.cz, a.s. neodpovídá za faktické či právní vady datové sady a ani nenese odpovědnost za škodu způsobenou disponentovi a/nebo třetím osobám takovou vadou. Společnost Seznam.cz, a.s. může dle své úvahy datovou sadu či jakoukoli její část znepřístupnit nebo odstranit. Disponent se pro takovýto případ zavazuje, že na výzvu společnosti Seznam.cz, a.s. upraví datovou sadu stejným způsobem.
+
+V případě, že držíte práva k datům, která jsou obsažena v přiložené datové sadě, nebo máte za to, že je obsah datové sady v rozporu s právními předpisy a přejete si je odstranit, kontaktujte nás prosím na srch.vyzkum@firma.seznam.cz.
+
+
+## EN version
+
+This dataset attached aims primarily to verify the credibility of the scientific outputs referred to in the scientific Article of the author, and as such is made available to the academic public, i.e. solely to the recipient of this e-mail, for purely research, scientific and non-commercial purposes to provide contribution of artificial intelligence and related fields development. The respective dataset is provided without any representations or warranties, while due its use, the dataset controller assumes any risks associated with or arising from the dataset, such as content or technical incompleteness or inaccuracy of data, the existence of third-party rights related to data, etc. The dataset controller assumes any and all liability for damages resulting from their use of the dataset. Author of the Article and Seznam.cz, a.s. are not in any way liable for factual or legal defects of the dataset, nor are they liable for any damage caused to the controller and/or any third party by such defects. Seznam.cz, a.s. may, at its discretion, make the dataset or any part thereof unavailable or remove it. In such a case, the controller undertakes to modify the dataset in the same manner at the request of Seznam.cz, a.s.
+
+If you hold rights to the data contained in the attached dataset, or if you believe that the contents of the dataset are in breach of the law and wish to have them removed, please contact us at srch.vyzkum@firma.seznam.cz.
