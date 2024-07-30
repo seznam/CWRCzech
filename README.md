@@ -34,9 +34,11 @@ df = pd.read_parquet(path)
 If you find our work helpful, please consider citing us:
 
 ```
-Title: CWRCzech: 100M Query-Document Czech Click Dataset and Its Application to Web Relevance Ranking
-Authors: Josef Vonášek and Milan Straka and Rostislav Krč and Lenka Lasoňová and Ekaterina Egorova and Jana Straková and Jakub Náplava
-Link: https://arxiv.org/abs/2405.20994
+@inproceedings{vonasek2024cwrczech,
+  title={CWRCzech: 100M Query-Document Czech Click Dataset and Its Application to Web Relevance Ranking},
+  author={Von{\'a}sek, Josef and Straka, Milan and Kr{\v{c}}, Rostislav and Lasonov{\'a}, Lenka and Egorova, Ekaterina and Strakov{\'a}, Jana and N{\'a}plava, Jakub},
+  booktitle={Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={1221--1231},
+  year={2024}
+}
 ```
-
-The SIGIR version will be up once the proceedings are published.
